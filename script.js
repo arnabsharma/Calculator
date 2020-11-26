@@ -116,4 +116,4 @@ clearBtn.addEventListener('click',()=>{
 });
 
 
-//The code for dot(.) and percent(%) are to be written only after the user understands all  the above codes.If you are unable to write the code,contact us(DSC-SIT).
+//The code for dot(.) and percent(%) are not written in this program.
